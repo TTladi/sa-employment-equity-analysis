@@ -1,5 +1,5 @@
 Project Overview
-A data analysis and modelling project looking at 12 years (2013 to 2024) of South African Employment Equity (EEA2) submissions across industry sectors.
+- A data analysis and modelling project looking at 12 years (2013 to 2024) of South African Employment Equity (EEA2) submissions across industry sectors.
 
 Data Preparation and SQL Modelling
 - Source Consolidation: Joined raw employer details (ee_meta) with workforce demographic counts (ee_profile_all) into a single table (ee_combined_master).
